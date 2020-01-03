@@ -28,4 +28,4 @@
       
       Here 4 mapper is Used and absolute path of Python should be defined in system variable PATH .
       
-   4. Link to the Hadoop code deployment : https://drive.google.com/file/d/1Ce9YbUf1ErF-uTP_rl6yURADnslVlX8f/view
+   
